@@ -1,9 +1,10 @@
 ## Nodeschool Workshopper Notes
 Archived notes of my Node learnings via https://nodeschool.io/index.html#workshopper-list
 
-### Progress Chart
+### Progress Charts
+-----
 
 #### [javascripting](https://github.com/workshopper/javascripting)
 | Exercise | Topic | Grok Hours | Notes |
 |:--------:|:-----:|:----------:|:-----:|
-| Introduction | Terminal, Files, Logging, Strings | 0.25 | [Notes](01%20-%20Introduction) |
+| Introduction | Terminal, Files, Logging, Strings | 0.25 | [Notes](javascripting/01%20-%20Introduction) |
