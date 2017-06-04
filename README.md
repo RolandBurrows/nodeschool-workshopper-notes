@@ -15,3 +15,4 @@ Archived notes of my Node learnings via https://nodeschool.io/index.html#worksho
 | Numbers | Integers, Floats, String Literal | 0.25 | [Notes](javascripting/06%20-%20Numbers) |
 | Rounding Numbers | Standard Objects, Math.round(num) | 0.25 | [Notes](javascripting/07%20-%20Rounding%20Numbers) |
 | Number to String | num.toString() | 0.25 | [Notes](javascripting/08%20-%20Number%20to%20String) |
+| If Statement | Boolean Logic, If-Else | 0.25 | [Notes](javascripting/08%20-%20If%20Statement) |
