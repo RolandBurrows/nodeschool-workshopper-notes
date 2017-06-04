@@ -13,3 +13,4 @@ Archived notes of my Node learnings via https://nodeschool.io/index.html#worksho
 | String Length | Object methods and properties | 0.25 | [Notes](javascripting/04%20-%20String%20Length) |
 | Revising Strings | string.replace('old_sub_str','new_sub_str') | 0.25 | [Notes](javascripting/05%20-%20Revising%20Strings) |
 | Numbers | Integers, Floats, String Literal | 0.25 | [Notes](javascripting/06%20-%20Numbers) |
+| Rounding Numbers | Standard Objects, Math.round(num) | 0.25 | [Notes](javascripting/07%20-%20Rounding%20Numbers) |
