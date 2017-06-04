@@ -17,3 +17,4 @@ Archived notes of my Node learnings via https://nodeschool.io/index.html#worksho
 | Number to String | num.toString() | 0.25 | [Notes](javascripting/08%20-%20Number%20to%20String) |
 | If Statement | Boolean Logic, If-Else | 0.25 | [Notes](javascripting/09%20-%20If%20Statement) |
 | For Loop | for (i; i < 10; i++) { } | 0.25 | [Notes](javascripting/10%20-%20For%20Loop) |
+| Arrays | Arrays | 0.25 | [Notes](javascripting/11%20-%20Arrays) |
