@@ -19,4 +19,5 @@ Archived notes of my Node learnings via https://nodeschool.io/index.html#worksho
 | For Loop | for (i; i < 10; i++) { } | 0.25 | [Notes](javascripting/10%20-%20For%20Loop) |
 | Arrays | Arrays | 0.25 | [Notes](javascripting/11%20-%20Arrays) |
 | Array Filtering | array.filter() | 0.25 | [Notes](javascripting/12%20-%20Array%20Filtering) |
-| Array Values | array[i]) | 0.25 | [Notes](javascripting/13%20-%20Accessing%20Array%20Values) |
+| Array Values | array[i] | 0.25 | [Notes](javascripting/13%20-%20Accessing%20Array%20Values) |
+| Array Looping | a.forEach | 0.25 | [Notes](javascripting/14%20-%20Looping%20Through%20Arrays) |
