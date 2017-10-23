@@ -23,3 +23,4 @@ Archived notes of my Node learnings via https://nodeschool.io/index.html#worksho
 | Array Looping | a.forEach | 0.25 | [Notes](javascripting/14%20-%20Looping%20Through%20Arrays) |
 | Objects | Maps | 0.25 | [Notes](javascripting/15%20-%20Objects) |
 | Object Properties | Map key:values | 0.25 | [Notes](javascripting/16%20-%20Object%20Properties) |
+| Functions | function name (arg) { } | 0.25 | [Notes](javascripting/15%20-%20Functions) |
