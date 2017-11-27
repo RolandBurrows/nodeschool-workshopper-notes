@@ -25,3 +25,4 @@ Archived notes of my Node learnings via https://nodeschool.io/index.html#worksho
 | Object Properties | Map key:values | 0.25 | [Notes](javascripting/16%20-%20Object%20Properties) |
 | Functions | function name (arg) { } | 0.25 | [Notes](javascripting/17%20-%20Functions) |
 | Function Arguments | function name (arg1, arg2) { } | 0.25 | [Notes](javascripting/18%20-%20Function%20Arguments) |
+| Scope | Scope | 0.25 | [Notes](javascripting/19%20-%20Scope) |
