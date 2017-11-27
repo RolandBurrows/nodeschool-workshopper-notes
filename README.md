@@ -26,3 +26,4 @@ Archived notes of my Node learnings via https://nodeschool.io/index.html#worksho
 | Functions | function name (arg) { } | 0.25 | [Notes](javascripting/17%20-%20Functions) |
 | Function Arguments | function name (arg1, arg2) { } | 0.25 | [Notes](javascripting/18%20-%20Function%20Arguments) |
 | Scope | Scope | 0.25 | [Notes](javascripting/19%20-%20Scope) |
+| **Total** | **JS Basics** | **4.75** | - |
